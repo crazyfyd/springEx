@@ -1,4 +1,4 @@
-package com.exemple.demo;
+package chap02;
 
 import java.text.DateFormat;
 import java.util.Date;

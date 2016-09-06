@@ -1,4 +1,4 @@
-package com.exemple.demo;
+package chap02;
 
 public class chap02Greeter {
 	

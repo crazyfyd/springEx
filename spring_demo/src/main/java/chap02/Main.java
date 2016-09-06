@@ -1,4 +1,4 @@
-package com.exemple.demo;
+package chap02;
 
 import org.springframework.context.support.GenericXmlApplicationContext;
 
@@ -12,7 +12,7 @@ public class Main {
 		
 		chap02Greeter g1 = ctx.getBean("greeter", chap02Greeter.class);
 		chap02Greeter g2 = ctx.getBean("greeter", chap02Greeter.class);
-		System.out.println("(g1 == g2) = " + (g1 == g2)); 	// ½Ì±ÛÅæ
+		System.out.println("(g1 == g2) = " + (g1 == g2)); 	// ï¿½Ì±ï¿½ï¿½ï¿½
 		
 		ctx.close();
 	}

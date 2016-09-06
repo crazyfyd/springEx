@@ -1,4 +1,4 @@
-package chap4;
+package chap04;
 
 public class RegisterRequest {
 
